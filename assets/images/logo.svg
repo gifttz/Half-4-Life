@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="76" viewBox="0 0 330 76" role="img" aria-label="Half 4 Life — a Lanz Clinic initiative">
+  <rect x="0" y="8" width="60" height="60" rx="16" fill="#2e7d32"/>
+  <path d="M30 23 V53 M15 38 H45" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+  <text x="76" y="43" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-weight="600" font-size="33" fill="#18211b">Half 4 Life</text>
+  <text x="78" y="61" font-family="Montserrat, Helvetica, Arial, sans-serif" font-weight="600" font-size="7.5" letter-spacing="2.7" fill="#2e7d32">LANZ CLINIC INITIATIVE</text>
+</svg>
